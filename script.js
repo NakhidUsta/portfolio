@@ -1,0 +1,25 @@
+$('.swiper-wrapper').owlCarousel({
+    loop:true,
+    autoplay:true,
+    autoplayTimeout:2000,
+    autoplayHoverPause:true,
+    nav:false,
+    margin:10,
+    responsiveClass:true,
+    responsive:{
+        0:{
+            items:1,
+        },
+        1024:{
+          items:2,
+      },
+        1440:{
+            items:3,
+        },
+        2560:{
+            items:5,
+            nav:true,
+            loop:false
+        }
+    }
+  });
