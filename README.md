@@ -13,6 +13,6 @@
 
 
 
-**Copyright © 2022 [Nakhid Usta](https://github.com/NakhidUsta)**
+**Copyright © 2023 [Nakhid Usta](https://github.com/NakhidUsta)**
 
 **This project is MIT licensed.**
